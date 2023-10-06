@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "user": {
+      "name": "Awesom User",
+      "avatarUrl": "https://i.pravatar.cc/300"
+    },
+    "content": "Hello",
+    "type": "text",
+    "time": "2023-10-04 22:10:42"
+  },
+  {
+    "id": 2,
+    "user": {
+      "name": "Awesom User",
+      "avatarUrl": "https://i.pravatar.cc/300"
+    },
+    "content": "https://picsum.photos/536/354",
+    "type": "image",
+    "time": "2023-10-05 22:10:42",
+    "ads": [
+      {
+        "title": "Sausage Mc Muffin set",
+        "image": "https://d1vs91ctevllei.cloudfront.net/images/product/1693528427TPO-1000x1000-sausage-set.png"
+      },
+      {
+        "title": "Sausage McMuffin",
+        "image": "https://d1vs91ctevllei.cloudfront.net/images/product/15991868771593420983050_MCD_Menu-Icon_600x400px_Breakfast-Alacarte_Sausage-McMuffin_Final.jpg"
+      },
+      {
+        "title": "Sausage McMuffin with Egg",
+        "image": "https://d1vs91ctevllei.cloudfront.net/images/product/1593420962051_MCD_Menu-Icon_600x400px_Breakfast-Alacarte_Sausage-McMuffin-EGG_Final.jpg"
+      },
+      {
+        "title": "Hot Americano 8 oz.",
+        "image": "https://d1vs91ctevllei.cloudfront.net/images/product/16487576381629277313HOT-LONG-BLACK_Final.png"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "user": {
+      "name": "Awesom User",
+      "avatarUrl": "https://i.pravatar.cc/300"
+    },
+    "content": "Hello Again",
+    "type": "text",
+    "time": "2023-10-06 22:10:42"
+  }
+]
