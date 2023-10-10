@@ -1,4 +1,4 @@
-import 'package:ads_carousel/app/data/menu_item_model.dart';
+import 'package:ads_carousel/app/data/models/menu_item_model.dart';
 import 'package:ads_carousel/app/modules/home/controllers/home_controller.dart';
 import 'package:ads_carousel/app/modules/home/views/alert_button_view.dart';
 import 'package:ads_carousel/app/modules/home/views/feed_view.dart';
